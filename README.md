@@ -1,5 +1,5 @@
 # RIKWO_pizza
-## Repository to create a mobile app that can help you order pizza
+## Temat: Aplikacja ułatwiająca zamawianie pizzy na urządzenia z systemem Android
 ### Chrzęszczyk Michał - kierownik (chrzeszczu)
 ### Przemysław Florkiewicz (Kartofelele)
 ### Jędrzej Szyszka (Szyszobot2205)
