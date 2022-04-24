@@ -1,5 +1,5 @@
-# RIKWO_pizza /
-## Temat: Aplikacja do zamawiania pizzy na urządzenia z systemem Android /
+# RIKWO_pizza </br>
+## Temat: Aplikacja do zamawiania pizzy na urządzenia z systemem Android </br>
 ### Lista członków zespołu:
 ### 1. Chrzęszczyk Michał - kierownik (chrzeszczu)
 ### 2. Przemysław Florkiewicz (Kartofelele)
