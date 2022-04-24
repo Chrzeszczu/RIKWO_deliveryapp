@@ -3,13 +3,13 @@
 ### Lista członków zespołu:
 ### 1. Chrzęszczyk Michał - kierownik (chrzeszczu)
 ### 2. Przemysław Florkiewicz (Kartofelele)
-### 3. Jędrzej Szyszka (Szyszobot2205)
+### 3. Jędrzej Szyszka (Szyszobot2205)  
 ###
-### Krótki opis aplikacji: 
+### Krótki opis aplikacji:  
 ###
-### Aplikacja umożliwi użytkownikowi w prosty i przystępny sposób zamówić pizze z lokalu "Pyszna pizza"
+### Aplikacja umożliwi użytkownikowi w prosty i przystępny sposób zamówić pizze z lokalu "Pyszna pizza"  
 ###
-### Lista funkcjonalności: 
+### Lista funkcjonalności:  
 ###
 ### 1. Wybieranie pizzy z menu
 ### 2. Wybór rozmiaru pizzy
