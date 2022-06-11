@@ -8,10 +8,8 @@
 ### Aplikacja umożliwi użytkownikowi w prosty i przystępny sposób zamówić jedzenie z lokalu "Pyszne żarcie" </br> </br>
 ### Lista funkcjonalności: </br></br>
 ### 1. Wybieranie jedzenia z menu
-### 2. Wybór rozmiaru jedzenia
-### 3. Wybranie sosu 
-### 4. Możliwość dodania napoju
-### 5. Podliczenie zamówienia
-### 6. Doliczenie kosztu dostawy
-### 7. Formularz miejsca dostawy
-### 8. Wybór płatności (karta/gotówka)
+### 2. Możliwość dodania napoju
+### 3. Podliczenie zamówienia
+### 4. Doliczenie kosztu dostawy
+### 5. Doliczenie podatku
+
