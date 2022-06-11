@@ -9,7 +9,8 @@
 ### Lista funkcjonalności: </br></br>
 ### 1. Wybieranie jedzenia z menu
 ### 2. Możliwość dodania napoju
-### 3. Podliczenie zamówienia
-### 4. Doliczenie kosztu dostawy
-### 5. Doliczenie podatku
+### 3. Możliwość zmiany ilości produktów
+### 4. Podliczenie zamówienia
+### 5. Doliczenie kosztu dostawy
+### 6. Doliczenie podatku
 
